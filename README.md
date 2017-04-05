@@ -27,7 +27,7 @@ So as you scroll it moves with the first item in view.
 
 ### Data
 
-The view component is built using json like this [data.json](data.json)
+The view component is built using json like this [data.json](src/data.json)
 
 ### Layouts
 At first we need to support 3 layouts:
