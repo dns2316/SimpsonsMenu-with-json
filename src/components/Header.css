@@ -1,0 +1,13 @@
+.header{
+  height: 30vh;
+  width: 100%;
+}
+.header h1{
+  padding-top: 1vmin;
+  font-size: calc(3em + 2vmin);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.header img{
+  max-height: 70%;
+}

@@ -1,0 +1,25 @@
+{
+    "layout": "layout_1",
+    "cover": {
+			"title": "The Simpsons",
+			"titleColor": "#000000",
+			"image": "cover.png"
+		},
+    "items": [
+        {
+            "title": "Homer",
+						"titleColor": "#ffffff",
+            "image": "homer.jpg"
+        },
+        {
+            "title": "Marge",
+						"titleColor": "#fdd420",
+            "image": "marge.jpg"
+        },
+        {
+            "title": "Lisa",
+						"titleColor": "#ffffff",
+            "image": "lisa.png"
+        }
+    ]
+}

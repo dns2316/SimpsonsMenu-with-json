@@ -1,0 +1,61 @@
+body, h1, h2, h3{
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+body{
+  overflow-x: hidden;
+}
+.App {
+  text-align: center;
+  font-family: Cooper Std Black;
+  width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  height: 30vh;
+}
+.simpsons{
+  display: flex;
+  position: relative;
+  text-transform: uppercase;
+  font-size: calc(0.5em + 2vmin);
+  height: 25vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  text-align: center;
+  clear: both;
+}
+.simpsons h3{
+  position: absolute;
+  bottom: 3vh;
+  right: 3vw;
+  text-shadow: 0px 0px 8px black;
+}
+.simpsons h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  font-size: calc(1em + 2vmin);
+  float: left;
+  height: 100%;
+  width: 25%;
+}
+.simpsons h2:hover{
+  color: #fed420;
+  font-size: calc(1.5em + 2vmin);
+}
+.simpsons img{
+  overflow: hidden;
+  width: 100%;
+  /*object-fit: contain;*/
+  vertical-align: middle;
+}
+.simContent{
+  display: flex;
+  flex-direction: column;
+  height: 65vh;
+}
