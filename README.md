@@ -2,7 +2,7 @@
 
 ![screen](screen.PNG)
 
-GitHub-Page * "https://dns2316.github.io/SimpsonsMenu-with-json/" <https://dns2316.github.io/SimpsonsMenu-with-json
+GitHub-Page [dns2316.github.io/SimpsonsMenu-with-json/](https://dns2316.github.io/SimpsonsMenu-with-json)
 
 #task
 
